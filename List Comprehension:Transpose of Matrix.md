@@ -29,11 +29,11 @@ print(l)
 
 print(sq_l)
 ```
-OUTPUT:
+## OUTPUT:
 <img width="941" height="429" alt="491492870-43ef61ae-5673-42e5-aa90-80cbca9f7184" src="https://github.com/user-attachments/assets/88afa6c8-8f93-4d87-8ecb-692c6fc25438" />
 
 
-RESULT:
+## RESULT:
 Thus, the program has been executed and verified successfully.
 
 
